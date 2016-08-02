@@ -9,7 +9,7 @@ One acts as an amplifier that can pick up LF transmissions and make them audible
 Furthermore the participants will engage on prototyping their own hand-crafted antennas using their desired crafting technique – embroidery, crochet, knitting etc. 
 The creation of these unique artefacts will permit the participants to immerse their bodies to their surroundings through a playful exploration of art, tradition, science and technology. 
 
-<img src=TransistorSimmpleCircuit/schematic/amplifierEMF.png>
+<img src=TransistorSimpleCircuit/schematics/amplifierEMF.png>
 (1)
 
 <img src=tinyEMF/schematics/atTinyEMF.png>
