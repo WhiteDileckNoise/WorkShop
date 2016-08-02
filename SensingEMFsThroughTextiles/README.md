@@ -4,7 +4,7 @@ Workshop given by [Afroditi Psarra](http://afroditipsarra.com/) and [Martin De B
 
 <img src=EMFLOW.jpg width=400>
 
-After a  presentation of references projects and technologies that we will use, the participants experiment two different circuits. 
+After a  presentation of references projects and technologies that we will use, the participants will experiment with two different circuits. 
 One acts as an amplifier that can pick up LF transmissions and make them audible (1) and the other, ATtiny-based detector, provides sonic, haptic and visual feedback of the picked-up interference (2). 
 Furthermore the participants will engage on prototyping their own hand-crafted antennas using their desired crafting technique – embroidery, crochet, knitting etc. 
 The creation of these unique artefacts will permit the participants to immerse their bodies to their surroundings through a playful exploration of art, tradition, science and technology. 
